@@ -59,7 +59,7 @@ Installing the Matrix Assessment Component Packages.
 
 4) Download _MatrixAssessment managed solution and import in your dataverse.
 
-5) Download MatrixAssessment managed solution and import in your dataverse.
+5) Download MatrixAssessment_App managed solution and import in your dataverse.
 
 
 
