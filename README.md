@@ -71,7 +71,7 @@ Installing the Matrix Assessment Component Packages.
 
 ![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1718810209/image_ddqanp.png)
 
-![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1718810304/Screenshot_2024-06-19_201755_mjbnlg.png)
+![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1719052325/Screenshot_2024-06-22_153117_wliogp.png)
 
 
 
